@@ -1,4 +1,4 @@
-![Design Patterns For Humans](https://cloud.githubusercontent.com/assets/11269635/23065273/1b7e5938-f515-11e6-8dd3-d0d58de6bb9a.png)
+![Design Patterns For Humans](https://raw.githubusercontent.com/baciotti/padroes-de-projetos-para-humanos/master/padr%C3%B5es%20de%20projetos%20para%20humanos.png)
 
 ***
 
