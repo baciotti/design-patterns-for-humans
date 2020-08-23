@@ -11,37 +11,39 @@ O trabalho a ser realizado nesse guia será de tradução para português e adap
 ***
 
 <p align="center">
-🎉 Ultra-simplified explanation to design patterns! 🎉
+🎉 Explicação ultrasimplificada para padrões de projeto! 🎉
 </p>
 <p align="center">
-A topic that can easily make anyone's mind wobble. Here I try to make them stick in to your mind (and maybe mine) by explaining them in the <i>simplest</i> way possible.
+Um tópico que pode facilmente fazer a mente de qualquer pessoa vacilar. Aqui, tento fazê-los grudar na sua cabeça (e talvez na minha) explicando-os da forma <i> mais simples </i> possível.
 </p>
 
 ***
 
-<sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
+<sub> Confira meu [blog] (http://kamranahmed.info) e diga "oi" no [Twitter] (https://twitter.com/kamranahmedse). </sub>
 
-Introduction
+Introducão
 =================
 
-Design patterns are solutions to recurring problems; **guidelines on how to tackle certain problems**. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations.
+Os padrões de projeto são soluções para problemas recorrentes; ** orientações sobre como lidar com certos problemas **. Eles não são classes, pacotes ou bibliotecas que você pode conectar em seu aplicativo e esperar que a mágica aconteça. Em vez disso, são orientações sobre como lidar com certos problemas em determinadas situações.
 
-> Design patterns are solutions to recurring problems; guidelines on how to tackle certain problems
+> Padrões de projeto são soluções para problemas recorrentes; diretrizes sobre como lidar com certos problemas
 
-Wikipedia describes them as
+Wikipedia os descreve como
 
-> In software engineering, a software design pattern is a general reusable solution to a commonly occurring problem within a given context in software design. It is not a finished design that can be transformed directly into source or machine code. It is a description or template for how to solve a problem that can be used in many different situations.
+> Na engenharia de software, um padrão de projeto de software é uma solução reutilizável geral para um problema comum em um determinado contexto no projeto de software. Não é um design acabado que pode ser transformado diretamente em código-fonte ou código de máquina. É uma descrição ou modelo de como resolver um problema que pode ser usado em muitas situações diferentes.
 
-⚠️ Be Careful
+⚠️ Tenha cuidado
 -----------------
-- Design patterns are not a silver bullet to all your problems.
-- Do not try to force them; bad things are supposed to happen, if done so. 
-- Keep in mind that design patterns are solutions **to** problems, not solutions **finding** problems; so don't overthink.
-- If used in a correct place in a correct manner, they can prove to be a savior; or else they can result in a horrible mess of a code.
+- Os padrões de projeto não são uma solução mágica para todos os seus problemas.
+- Não tente forçar seu uso; coisas ruins podem resultar disso.
+- Lembre-se de que os padrões de projeto são soluções ** para ** problemas, não soluções para ** encontrar ** problemas; então não pense demais.
+- Se usados em um lugar correto de maneira correta, eles podem ser um salvador; ou então eles podem resultar em uma bagunça horrível de código.
 
-> Also note that the code samples below are in PHP-7, however this shouldn't stop you because the concepts are same anyways.
+> Observe também que os exemplos de código abaixo estão em PHP-7, no entanto, isso não deve impedi-lo porque os conceitos são os mesmos de qualquer maneira.
 
-Types of Design Patterns
+Nota dos tradutores: Nosso objetivo é converter todos os códigos para a linguagem Python
+
+Tipos de padrão de projeto
 -----------------
 
 * [Creational](#creational-design-patterns)
