@@ -2,6 +2,14 @@
 
 ***
 
+Esse é um trabalho de tradução do excelente guia "Design Patterns For Humans" desenvolvido por Kamran Ahmed escrito originalmente em inglês. Você pode contatar diretamente o autor original através do [blog](http://kamranahmed.info) e  [Twitter](https://twitter.com/kamranahmedse) além do repositório oficial no [Github](https://github.com/kamranahmedse/design-patterns-for-humans).
+
+Esse trabalho de tradução foi iniciado por Tiago Bacciotti Moreira ([Twitter](https://twitter.com/TiagoBacciotti), [Github](https://github.com/baciotti)) e Lucas Bacciotti Moreira ([Twitter](https://twitter.com/baciotti), [Github](https://github.com/bacciotti)).
+
+O trabalho a ser realizado nesse guia será de tradução para português e adaptação de todos os exemplos para a linguagem Python. Fique a vontade para colaborar :)
+
+***
+
 <p align="center">
 🎉 Ultra-simplified explanation to design patterns! 🎉
 </p>
