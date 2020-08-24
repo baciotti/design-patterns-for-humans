@@ -53,11 +53,11 @@ Tipos de padrão de projeto
 Padrões de Criação
 ==========================
 
-In plain words
-> Creational patterns are focused towards how to instantiate an object or group of related objects.
+Em palavras simples
+> Os padrões de criação são focados em como instanciar um objeto ou grupo de objetos relacionados.
 
-Wikipedia says
-> In software engineering, creational design patterns are design patterns that deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design problems or added complexity to the design. Creational design patterns solve this problem by somehow controlling this object creation.
+Wikipedia diz
+> Na engenharia de software, os padrões de design criacionais são padrões de design que lidam com mecanismos de criação de objetos, tentando criar objetos de uma maneira adequada à situação. A forma básica de criação de objetos pode resultar em problemas de design ou aumentar a complexidade do design. Os padrões de projeto criacionais resolvem esse problema controlando de alguma forma a criação desse objeto.
 
  * [Simple Factory](#-simple-factory)
  * [Factory Method](#-factory-method)
@@ -68,14 +68,14 @@ Wikipedia says
 
 🏠 Simple Factory
 --------------
-Real world example
-> Consider, you are building a house and you need doors. You can either put on your carpenter clothes, bring some wood, glue, nails and all the tools required to build the door and start building it in your house or you can simply call the factory and get the built door delivered to you so that you don't need to learn anything about the door making or to deal with the mess that comes with making it.
+Exemplo do mundo real
+> Imagine que você está construindo uma casa e precisa de portas. Você pode colocar suas roupas de marceneiro, trazer um pouco de madeira, cola, pregos e todas as ferramentas necessárias para construir a porta e começar a construí-la em sua casa ou você pode simplesmente ligar para a fábrica e solicitar que a porta construída seja entregue a você para que você não precise aprender sobre como fazer portas ou lidar com a bagunça que acontece quando as constroi.
 
-In plain words
-> Simple factory simply generates an instance for client without exposing any instantiation logic to the client
+Em palavras simples
+> Simple Factory (Fábrica simples) simplesmente gera uma instância para o cliente sem expor qualquer lógica de instanciação para o cliente.
 
-Wikipedia says
-> In object-oriented programming (OOP), a factory is an object for creating other objects – formally a factory is a function or method that returns objects of a varying prototype or class from some method call, which is assumed to be "new".
+Wikipedia diz
+> Na programação orientada a objetos (OOP), uma fábrica é um objeto para criar outros objetos - formalmente, uma fábrica é uma função ou método que retorna objetos de um protótipo ou classe variável de alguma chamada de método, que é considerada "nova" .
 
 **Programmatic Example**
 
