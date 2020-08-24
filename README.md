@@ -46,7 +46,7 @@ Nota dos tradutores: Nosso objetivo é converter todos os códigos para a lingua
 Tipos de padrão de projeto
 -----------------
 
-* [Padrões de Criação](#creational-design-patterns)
+* [Padrões de Criação](#padr%C3%B5es-de-cria%C3%A7%C3%A3o)
 * [Padrões estruturais](#structural-design-patterns)
 * [Padrões de Comportamento](#behavioral-design-patterns)
 
