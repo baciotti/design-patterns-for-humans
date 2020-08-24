@@ -50,7 +50,7 @@ Tipos de padrão de projeto
 * [Padrões estruturais](#structural-design-patterns)
 * [Padrões de Comportamento](#behavioral-design-patterns)
 
-Creational Design Patterns
+Padrões de Criação
 ==========================
 
 In plain words
